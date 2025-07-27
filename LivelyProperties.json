@@ -2,7 +2,7 @@
   "matrixColor": {
     "text": "Font Color",
     "type": "color",
-    "value": "#00FF46"
+    "value": "#00FFFF"
   },
   "rainbowSpeed": {
     "max": 100,
@@ -10,11 +10,11 @@
     "tick": 25,
     "text": "Rainbow Speed",
     "type": "slider",
-    "value": 50
+    "value": 33
   },
   "rainBow": {
     "type": "checkbox",
-    "value": false,
+    "value": true,
     "text": "Rainbow"
   }
 }
